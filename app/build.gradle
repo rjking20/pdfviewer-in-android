@@ -30,6 +30,6 @@ dependencies {
 
     //extra library
     implementation 'com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5'
-    implementation 'com.github.rjking20:android-pdf-viewer:2.8.2'
+    implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'
 
 }

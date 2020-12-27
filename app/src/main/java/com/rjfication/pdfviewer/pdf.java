@@ -14,6 +14,7 @@ public class pdf extends AppCompatActivity {
 
     private Uri url=null;
     private PDFView pdf;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
